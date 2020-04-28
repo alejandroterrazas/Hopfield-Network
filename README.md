@@ -1,6 +1,6 @@
 ## Hopfield Network
 
-The Hopfield network is a recurrent network initially proposed by John Hopfield in 1982.  Understanding the Hopfield Net is a good start for understanding Boltman Machines and other probabilistic graphical models.
+The Hopfield network is a recurrent network initially proposed by John Hopfield in 1982.  Understanding the Hopfield Net is a good start for understanding Boltzman Machines and other probabilistic graphical models.
 
 The Hopfield Net is composed of fully connected binary units (that is, each unit is bidirectional connected to every other unit). The binary units normally takes states of {-1,+1} as opposed to {0,+1}.  Each pair on units has a connection weight (wi,j) 
 
